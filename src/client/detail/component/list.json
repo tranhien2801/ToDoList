@@ -1,0 +1,41 @@
+{
+	"title": "Canh bầu tôm",
+	"type": ["Món ăn"],
+	"execution_time": 20,
+	"image": "link",
+	"description": "Canh bầu tôm tươi là món canh thanh đạm...",
+	"vote": 2.5,
+	"author": {
+		"image": "link2",
+		"name": "TV. Phương"
+	},
+	"step": [
+		{
+			"title": "Chuẩn bị nguyên liệu",
+			"description": "Chuản bị nguyên liệu nấu canh",
+			"time":"",
+			"child": [
+				{
+					"title": "1 trái bầu",
+					"description":" Trái bầu còn non,...",
+					"time":""
+				},
+				{
+					"title": "100g tôm",
+					"description":"Ưu tiên chọn...",
+					"time":""
+				},
+				{
+					"title": "Hành ngò",
+					"description":"",
+					"time":""
+				}
+			]
+		},
+		{
+			"title": "Bầu bỏ cuống, gọt sạch, rửa, cắt thành miếng nhỏ",
+			"description": "",
+			"child": []
+		}
+	]
+}
