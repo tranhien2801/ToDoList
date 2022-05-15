@@ -7,13 +7,14 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar backgroundColor="#c7ceea" barStyle="light-content"/>
-      <ScrollView
+      {/* <ScrollView
         showsVerticalScrollIndicator={false}
         showsHorizontalScrollIndicator={false}
-      >
-        {/* <DetailPage /> */}
-        <StoragePage />
-      </ScrollView>      
+        
+      > */}
+        <DetailPage />
+        {/* <StoragePage /> */}
+      {/* </ScrollView>       */}
     </SafeAreaView>
   );
 }
